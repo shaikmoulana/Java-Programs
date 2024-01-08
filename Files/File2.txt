@@ -1,0 +1,1 @@
+welcome to file 2.Checking append is working or not.adding /n next linewithout write().\\n print
